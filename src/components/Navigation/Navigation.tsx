@@ -21,9 +21,9 @@ export const Navigation = () => {
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
           <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
             <img loading="lazy" src={logo.src} className="h-10" alt="the20" />
-            {pathname !== "/" ? (
+            {/* {pathname !== "/" ? (
               <img src={logo2.src} loading="lazy" className="h-8 w-40 lg:w-48" alt="The20 Logo" />
-            ) : null}
+            ) : null} */}
           </Link>
           <button
             type="button"
