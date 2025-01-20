@@ -68,7 +68,7 @@ export const Navigation = () => {
                   Home
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   href="/about"
                   onClick={toggleNavbar}
@@ -117,7 +117,7 @@ export const Navigation = () => {
                 >
                   Career
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   href="/contact"

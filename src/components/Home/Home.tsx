@@ -34,7 +34,7 @@ function Home() {
                 Analysis, combined with our wide expertise in different investment fields.
               </p>
 
-              <a className="text-[#e5c493] mt-16 inline-flex  items-center" href="/about">
+              {/* <a className="text-[#e5c493] mt-16 inline-flex  items-center" href="/about">
                 More about us
                 <span className="inline-flex items-center ml-2">
                   <svg width="32" height="19" viewBox="0 0 32 19" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -44,7 +44,7 @@ function Home() {
                     />
                   </svg>
                 </span>
-              </a>
+              </a> */}
             </div>
             <div className="col-span-12 lg:col-span-5 gap-4 md:gap-10 flex justify-center">
               <img className="w-44 h-56" src="/images/background/img-1-section-1.png" alt="" />
@@ -55,7 +55,7 @@ function Home() {
         </div>
       </section>
 
-      <section className="bg-black">
+      {/* <section className="bg-black">
         <div className="max-w-screen-xl mx-auto">
           <div className="grid lg:grid-cols-12 gap-4 md:grid-cols-1">
             <div className="col-span-0 md:col-span-0 lg:col-span-1"></div>
@@ -77,7 +77,7 @@ function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       <div className=" md:block hidden fixed asolute bottom-0 right-28 z-50">
         <Image src={imgMouse} alt="" />
       </div>
