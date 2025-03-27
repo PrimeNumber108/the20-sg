@@ -133,7 +133,7 @@ export const Navigation = () => {
             </ul>
             <div className="lg:block flex justify-center  w-full md:w-auto">
               <a
-                href="mailto:tqh@the20.sg"
+                href="mailto:admin@the20.sg"
                 className="text-black mt-5  md:mt-0 ml-5 bg-[#e5c493]  focus:ring-4 focus:outline-none
                              font-medium rounded-lg text-sm px-4 py-2 text-center dark:bg-blue-600 "
               >

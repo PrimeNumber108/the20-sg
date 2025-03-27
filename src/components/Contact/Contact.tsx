@@ -71,7 +71,7 @@ export default function Contact() {
             Submit
           </button>
 
-          <p className="mt-20">Or send your inquiries to tqh@the20.sg</p>
+          <p className="mt-20">Or send your inquiries to admin@the20.sg</p>
           {/* <div className="text-black text-2xl font-medium leading-8 tracking-[2.4px] uppercase self-center mt-12 max-md:max-w-full max-md:mt-8">
             For Market Making Service
           </div>
@@ -135,16 +135,16 @@ export default function Contact() {
     //     </div>
     //   </div>
     //   <a
-    //     href="mailto:tqh@the20.sg"
+    //     href="mailto:admin@the20.sg"
     //     className="text-black text-center text-lg  font-medium leading-7 whitespace-nowrap justify-center items-center rounded bg-orange-200 self-center min:[600px]:w-[634px] max-w-full mt-8 px-16 py-2.5 max-md:px-5 max-[600px]:text-sm max-[600px]:w-[250px]"
     //   >
     //     Submit
     //   </a>
     //   <a
-    //     href="mailto:tqh@the20.sg"
+    //     href="mailto:admin@the20.sg"
     //     className="justify-center text-black text-md font-medium leading-8 self-center mt-5 max-md:mt-2 max-[600px]:text-sm"
     //   >
-    //     Or send your inquiries to tqh@the20.sg
+    //     Or send your inquiries to admin@the20.sg
     //   </a>
     //   <div className="text-black text-2xl font-medium leading-8 tracking-[2.4px] uppercase self-center mt-12 max-md:max-w-full max-md:mt-8">
     //     For Market Making Service
